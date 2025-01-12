@@ -1,5 +1,5 @@
 ## About
-I'm a software developer passionate about computer graphics, GPU and high performance computing. Currently employed at AMD. See my [LinkedIn](https://www.linkedin.com) profile.
+I'm a software developer passionate about computer graphics, GPUs and high performance computing. Currently employed at AMD, working on Vulkan driver and AMF library for hardware accelerated video processing. See my [LinkedIn](https://www.linkedin.com) profile.
 
 
 ## Some of my personal projects
